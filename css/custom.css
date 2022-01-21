@@ -24,3 +24,14 @@
 .carousel-control-prev:hover{
     transform:scale(1.2)
 }
+
+/*-------------------------------------------------------
+                    Categories styles
+-------------------------------------------------------*/
+
+.cate-bg-2{
+    background-color:#FF3283
+}
+.cate-bg-3{
+    background-color:#0000FF;
+}
